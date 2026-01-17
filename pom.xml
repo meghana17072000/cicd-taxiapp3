@@ -165,6 +165,9 @@
         </plugin>
       </plugins>
     </pluginManagement>
+<pluginGroups>
+<pluginGroup>org.sonarsource.scanner.maven</pluginGroup>
+</pluginGroups>
   </build>
 
   <dependencyManagement>
